@@ -32,7 +32,7 @@ public class Employee {
 		// TODO Auto-generated constructor stub
 	}
 
-
+//display emp details
 
 	public void displayEmployee()
 	{
